@@ -21,3 +21,7 @@ Project repo: [vit-hallucination-llava](https://github.com/NikhilAdyapak/vit-hal
 ## Author
 
 Nikhil Adyapak - [portfolio](https://nikhiladyapak.github.io/) - [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak)
+
+---
+
+Built by Nikhil Adyapak · [Portfolio](https://nikhiladyapak.github.io/) · [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak)
