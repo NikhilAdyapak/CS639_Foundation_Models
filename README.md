@@ -1,13 +1,23 @@
-# CS639_Foundation_Models
+# CS639: Introduction to Foundation Models
 
-HW 1: Neural Network Fundamentals
+Coursework and the final project for **CS639: Introduction to Foundation Models** at UW-Madison (Spring 2026). The assignments build up from neural network basics to modern LLM alignment.
 
-HW 2: Transformers
+## Assignments
 
-HW 3: ViT and CLIP
+| # | Topic |
+|---|-------|
+| HW1 | Neural network fundamentals |
+| HW2 | Transformers |
+| HW3 | ViT and CLIP |
+| HW4 | NLI fine-tuning |
+| HW5 | LLM alignment: SFT, reward modeling, and DPO |
 
-HW 4: NLI Fine-Tuning
+## Final project
 
-HW 5: LLM Alignment (SFT, Reward Modeling, and DPO)
+**Locating the source of hallucination in LLaVA-1.5** - an empirical study of the CLIP ViT visual encoder inside a vision-language model.
 
-Project: https://github.com/NikhilAdyapak/vit-hallucination-llava
+Project repo: [vit-hallucination-llava](https://github.com/NikhilAdyapak/vit-hallucination-llava)
+
+## Author
+
+Nikhil Adyapak - [portfolio](https://nikhiladyapak.github.io/) - [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak)
