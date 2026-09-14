@@ -18,10 +18,6 @@ Coursework and the final project for **CS639: Introduction to Foundation Models*
 
 Project repo: [vit-hallucination-llava](https://github.com/NikhilAdyapak/vit-hallucination-llava)
 
-## Author
-
-Nikhil Adyapak - [portfolio](https://nikhiladyapak.github.io/) - [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak)
-
 ---
 
 Built by **Nikhil Adyapak** · [Portfolio](https://nikhiladyapak.github.io/) · [Resume](https://nikhiladyapak.github.io/NIKHIL_ADYAPAK_resume.pdf) · [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak) · [GitHub](https://github.com/NikhilAdyapak) · [Email](mailto:nikhiladyapak31@gmail.com)
